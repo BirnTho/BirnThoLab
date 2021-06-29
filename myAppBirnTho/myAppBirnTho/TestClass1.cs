@@ -8,7 +8,7 @@ namespace myAppBirnTho
     {
         public void TestFunction()
         {
-
+            var test1 = 0;
         }
     }
 }
