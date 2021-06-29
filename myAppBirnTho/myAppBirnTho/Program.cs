@@ -10,8 +10,6 @@ namespace myAppBirnTho
             Console.WriteLine("Change 1");
             Console.WriteLine("Change 2");
             Console.WriteLine("Change 3");
-            Console.WriteLine("Change 4");
-
         }
     }
 }
