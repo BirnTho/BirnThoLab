@@ -6,5 +6,9 @@ namespace myAppBirnTho
 {
     class TestClass1
     {
+        public void TestFunction()
+        {
+
+        }
     }
 }
