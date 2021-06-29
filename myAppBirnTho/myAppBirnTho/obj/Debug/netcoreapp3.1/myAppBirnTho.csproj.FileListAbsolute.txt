@@ -1,0 +1,13 @@
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\bin\Debug\netcoreapp3.1\myAppBirnTho.exe
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\bin\Debug\netcoreapp3.1\myAppBirnTho.deps.json
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\bin\Debug\netcoreapp3.1\myAppBirnTho.runtimeconfig.json
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\bin\Debug\netcoreapp3.1\myAppBirnTho.runtimeconfig.dev.json
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\bin\Debug\netcoreapp3.1\myAppBirnTho.dll
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\bin\Debug\netcoreapp3.1\myAppBirnTho.pdb
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\obj\Debug\netcoreapp3.1\myAppBirnTho.csproj.AssemblyReference.cache
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\obj\Debug\netcoreapp3.1\myAppBirnTho.AssemblyInfoInputs.cache
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\obj\Debug\netcoreapp3.1\myAppBirnTho.AssemblyInfo.cs
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\obj\Debug\netcoreapp3.1\myAppBirnTho.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\obj\Debug\netcoreapp3.1\myAppBirnTho.dll
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\obj\Debug\netcoreapp3.1\myAppBirnTho.pdb
+C:\Users\Administrator\LabDay2\BirnThoLab\myAppBirnTho\myAppBirnTho\obj\Debug\netcoreapp3.1\myAppBirnTho.genruntimeconfig.cache
